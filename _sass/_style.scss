@@ -55,9 +55,6 @@
 }
   */
 
-.blueone {
-    color: #1976D2;
-}
 
 
 #grid[data-columns]::before {
@@ -144,7 +141,7 @@
      .action .fa{
          float: right;
          opacity: 0.9;
-         color: #eee;
+         color: #1976D2;
          &:hover{
              opacity: 0.8;
          }
